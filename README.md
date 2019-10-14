@@ -1,1 +1,2 @@
-# Sist_Dif
+# Sistemas Difusos
+Proyecto Final, control de un péndulo
